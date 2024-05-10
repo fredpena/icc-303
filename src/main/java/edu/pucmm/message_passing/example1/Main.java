@@ -1,5 +1,8 @@
 package edu.pucmm.message_passing.example1;
 
+import edu.pucmm.message_passing.example1.impl.ConsumidorA;
+import edu.pucmm.message_passing.example1.impl.ConsumidorB;
+
 /**
  * @author me@fredpena.dev
  * @created 06/05/2024  - 15:49
@@ -16,14 +19,9 @@ public class Main {
             }
         };
 
-        Consumidor consumidor = new Consumidor() {
-            @Override
-            public void procesarMensaje(Mensaje mensaje) {
-                System.out.println("Consumidor: Acabo de recibir: " + mensaje.getContenido());
-            }
-        };
 
-        canal.registrarConsumidor(consumidor);
+        canal.registrarConsumidor(new ConsumidorA());
+        canal.registrarConsumidor(new ConsumidorB());
 
         Mensaje<String> msg = new Mensaje<>("Hello World!");
         productor.publicar(msg);

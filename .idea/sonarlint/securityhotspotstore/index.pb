@@ -21,3 +21,13 @@ Ksrc/main/java/edu/pucmm/distributed_shared_memory/rpc/InventoryService.java,9/
 Osrc/main/java/edu/pucmm/distributed_shared_memory/rpc/InventoryServiceImpl.java,4/5/453f74ab2e11cfe644781750b2d67ed0364daa74
 o
 ?src/main/java/edu/pucmm/distributed_shared_memory/rpc/Main.java,0/9/09f070a0058e397928156b9486a25461fb03ca7d
+{
+Ksrc/main/java/edu/pucmm/message_passing/example2/ConsumidorInfoGeneral.java,e/4/e4aa7bfba1f0889d1c905726f914ef2290827567
+m
+=src/main/java/edu/pucmm/message_passing/example2/Persona.java,b/d/bdd6d052d2f53d7c56d42aa69717916c6c3482cd
+m
+=src/main/java/edu/pucmm/message_passing/example2/Mensaje.java,6/4/643957b0af468bfbf31dd43a141f25de24745c6a
+x
+Hsrc/main/java/edu/pucmm/message_passing/example2/ConsumidorLicencia.java,7/a/7acc69dc6ae34a010e1943d50becfb77fc3508c0
+j
+:src/main/java/edu/pucmm/message_passing/example2/Main.java,5/6/5669e1cdbc62f9d1313f2e545699f8586bdaaecb
