@@ -27,7 +27,7 @@ public class DistributedMemory {
     static class Inventory {
         private int stock = 0;
 
-        public void addItem(int quantity) {
+        public  void addItem(int quantity) {
             stock += quantity;
             System.out.println(Thread.currentThread().getName() + " added " + quantity + " items. Stock: " + stock);
         }

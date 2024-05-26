@@ -31,3 +31,7 @@ x
 Hsrc/main/java/edu/pucmm/message_passing/example2/ConsumidorLicencia.java,7/a/7acc69dc6ae34a010e1943d50becfb77fc3508c0
 j
 :src/main/java/edu/pucmm/message_passing/example2/Main.java,5/6/5669e1cdbc62f9d1313f2e545699f8586bdaaecb
+
+Osrc/main/java/edu/pucmm/distributed_shared_memory/domino/DistributedMemory.java,8/e/8e7edd0412234a0c6c77c66fae83ebdd0aaee1b4
+z
+Jsrc/main/java/edu/pucmm/distributed_shared_memory/domino/SharedMemory.java,a/f/af7da3e3f13072e5f786fc4d63ff96a4006ef644

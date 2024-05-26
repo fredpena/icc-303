@@ -14,7 +14,9 @@ class InventoryServiceImpl implements InventoryService {
 
     public void createStubAndBind() throws RemoteException {
         InventoryService stub = (InventoryService) UnicastRemoteObject.exportObject(this, 0);
-        Registry registry = LocateRegistry.createRegistry(1199);
+
+        Registry registry = LocateRegistry.getRegistry(1199);
+
         registry.rebind("InventoryService", stub);
     }
 

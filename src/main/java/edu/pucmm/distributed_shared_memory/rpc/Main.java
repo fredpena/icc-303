@@ -1,6 +1,5 @@
 package edu.pucmm.distributed_shared_memory.rpc;
 
-import java.rmi.Naming;
 import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
 
@@ -12,10 +11,12 @@ public class Main {
 
     public static void main(String[] args) {
         try {
+            Registry registry = LocateRegistry.createRegistry(1199);
+
             InventoryServiceImpl inventory1 = new InventoryServiceImpl();
             inventory1.createStubAndBind();
 
-            Registry registry = LocateRegistry.getRegistry();
+
             InventoryService server = (InventoryService) registry.lookup("InventoryService");
 
             // Simulación de agregar y vender productos

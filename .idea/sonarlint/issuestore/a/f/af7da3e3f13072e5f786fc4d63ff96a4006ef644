@@ -1,0 +1,6 @@
+
+
+java:S2095("MUse try-with-resources or close this "ExecutorService" in a "finally" clause.(´ñÇõ8‰“ã”ö1J$afb02e9e-97b6-44b4-8f32-5cc21bc885b8
+f
+java:S2119!"Save and re-use this "Random".(ŸÂÊûÿÿÿÿ8“ã”ö1J$09a9ca7e-cc33-457d-8ac6-8ec10d92c54e
+m	java:S106""+Replace this use of System.out by a logger.(Ğ¿Ö8ëê±•ö1J$6b74a7da-7952-46da-a9d2-7d98c01f9b8b

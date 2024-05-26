@@ -1,10 +1,10 @@
 
 
-java:S2095/"MUse try-with-resources or close this "ExecutorService" in a "finally" clause.(´ñÇõ8ÂÊ…ıô1J$84222331-8858-467f-b6f4-8bcd77f538b0
+java:S2095/"MUse try-with-resources or close this "ExecutorService" in a "finally" clause.(´ñÇõ8ÂÊ…ıô1J$92ba2530-5795-4f6a-9a4c-2549fde6f735
 u
-java:S1135"2Complete the task associated to this TODO comment.(ß‡©ù8†Šıüô1J$14cc4383-c347-4f06-b144-e057e4620ddd
+java:S1135"2Complete the task associated to this TODO comment.(ß‡©ù8†Šıüô1J$444099d3-8dfd-4a3e-abd8-8debc9bd0cd2
 z
-java:S1135"2Complete the task associated to this TODO comment.(ÎÉ€áÿÿÿÿÿ8ê°‚ıô1J$ea49fa04-73be-4f56-8fbc-c482c3499019
-r	java:S106 "+Replace this use of System.out by a logger.(š˜šßúÿÿÿÿ8èâ„ıô1J$6765ecc7-2ed3-4c82-a21b-07eb2f39e41b
-r	java:S106&"+Replace this use of System.out by a logger.(Ï¥ãøÿÿÿÿ8éâ„ıô1J$4cb2ab73-1058-4817-8b5e-87af12070d60
-r	java:S106("+Replace this use of System.out by a logger.(³êÂìüÿÿÿÿ8éâ„ıô1J$cc9864da-6bd9-4fe4-a6d9-be11fbc6f2e3
+java:S1135"2Complete the task associated to this TODO comment.(ÎÉ€áÿÿÿÿÿ8ê°‚ıô1J$16e33374-c525-4abb-860b-e729896d5735
+r	java:S106 "+Replace this use of System.out by a logger.(š˜šßúÿÿÿÿ8èâ„ıô1J$561abda2-32c6-4e03-940a-160ef665b611
+r	java:S106&"+Replace this use of System.out by a logger.(Ï¥ãøÿÿÿÿ8éâ„ıô1J$88ffa8f3-553a-4df4-89e1-e958d56963f3
+r	java:S106("+Replace this use of System.out by a logger.(³êÂìüÿÿÿÿ8éâ„ıô1J$d2b23527-6423-45a7-a4f3-25e8d0a450a5
