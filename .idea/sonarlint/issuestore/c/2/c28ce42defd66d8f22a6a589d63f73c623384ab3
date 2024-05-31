@@ -1,0 +1,11 @@
+
+š
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€J$b5927b28-9c08-4896-a7a7-50d63f747621
+j
+java:S2140")Use "java.util.Random.nextInt()" instead.(œˆ”´ÿÿÿÿÿJ$85894a21-5212-49f7-9805-103cee8d147a
+w
+java:S2696"6Make the enclosing method "static" or remove this set.(âÙüşÿÿÿÿJ$593414c4-6cd8-48e2-8146-5ddbc97dc30d
+k	java:S106"+Replace this use of System.out by a logger.(ïª÷’ûÿÿÿÿJ$405de323-a96f-4c88-ac2a-c7e1024ee346
+š
+java:S21421"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€J$68291f27-d98a-4c4c-9d82-1067a7749c3b
+k	java:S106-"+Replace this use of System.out by a logger.(äÇ°ÿÿÿÿÿJ$c8b579c9-a964-4723-a7f4-6d580aef9889
