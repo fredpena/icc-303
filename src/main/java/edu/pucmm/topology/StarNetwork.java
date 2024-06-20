@@ -9,11 +9,11 @@ import java.util.List;
  */
 
 
-class StarParallelNetwork {
+class StarNetwork {
     private final Processor concentrator;
 
     // Constructor que crea un procesador concentrador para la red
-    public StarParallelNetwork() {
+    public StarNetwork() {
         concentrator = new Processor("Concentrator");
     }
 
@@ -60,7 +60,7 @@ class StarParallelNetwork {
 
     public static void main(String[] args) {
         // Crear una red de estrella para procesamiento paralelo
-        StarParallelNetwork starNetwork = new StarParallelNetwork();
+        StarNetwork starNetwork = new StarNetwork();
 
         // Conectar algunos procesadores al concentrador
         Processor processor1 = new Processor("Processor 1");

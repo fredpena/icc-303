@@ -1,0 +1,9 @@
+
+
+java:S2095)"JUse try-with-resources or close this "ForkJoinPool" in a "finally" clause.(„°›å8ÉÚš‹2J$43b1c8ed-5ed5-44d0-96c4-16c373d08977
+k
+java:S1481"(Remove this unused "sum" local variable.(¸ ŒË8üú›‹2J$713a63ef-2c84-4731-9ce7-348d439bb8ab
+m
+java:S22013"*The return value of "reduce" must be used.(éÎŠ‹8ÎÚš‹2J$c6337476-665c-4eaf-9140-18bf2b93ceda
+r
+java:S2201;"*The return value of "reduce" must be used.(³æİ±øÿÿÿÿ8ÎÚš‹2J$94d9114c-c54f-42e2-be2b-cff449ec9f07

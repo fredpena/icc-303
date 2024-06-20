@@ -1,9 +1,9 @@
 
 š
-java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€J$8fd18c35-2655-4bda-b365-85093860ec3d
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€J$ffdb3a0d-e6d9-4d14-a27d-719557cd220d
 j
-java:S2140")Use "java.util.Random.nextInt()" instead.(œˆ”´ÿÿÿÿÿJ$c7e81852-91b7-4151-aea5-109bf44b15c7
-k	java:S106"+Replace this use of System.out by a logger.(ïª÷’ûÿÿÿÿJ$0613a375-ba1f-47c0-af2d-a33f4836ccd4
+java:S2140")Use "java.util.Random.nextInt()" instead.(œˆ”´ÿÿÿÿÿJ$a1063c3e-c386-4599-8004-478e3416e4bc
+k	java:S106"+Replace this use of System.out by a logger.(ïª÷’ûÿÿÿÿJ$49772bc5-72b0-4f40-81e4-478ae6340c1d
 š
-java:S2142'"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€J$6e4d0031-550c-4d3c-b26a-3c4befd3d47c
-k	java:S106%"+Replace this use of System.out by a logger.(äÇ°ÿÿÿÿÿJ$73c8e76d-5b2d-4fac-917d-2cef53d7a5bf
+java:S2142'"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€J$51147a5c-c478-4a6a-9ef3-2ad330c2f7af
+k	java:S106%"+Replace this use of System.out by a logger.(äÇ°ÿÿÿÿÿJ$03f3cc15-e895-44e9-9cc6-f6f7bec249a0

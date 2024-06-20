@@ -44,9 +44,9 @@ class HypercubeNetwork {
 
     public static void main(String[] args) {
         // Crear una red hiperbólica de 3 dimensiones
-        HypercubeNetwork hypercubeNetwork = new HypercubeNetwork(3);
+        HypercubeNetwork hypercubeNetwork = new HypercubeNetwork(4);
         // Enviar un mensaje desde el procesador 0 al procesador 7
-        hypercubeNetwork.sendMessage(0, 7, "Hello from Processor 0");
+        hypercubeNetwork.sendMessage(0, 11, "Hello from Processor 0");
     }
 }
 
