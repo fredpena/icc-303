@@ -1,5 +1,6 @@
 package edu.pucmm.message_passing.example2;
 
+import java.security.SecureRandom;
 import java.util.Random;
 
 /**
@@ -15,7 +16,7 @@ public class ConsumidorLicencia extends Consumidor {
             if (obj.getEdad() < 18) {
                 System.out.println("No aplica para licencia");
             } else {
-                var flag = new Random().nextBoolean();
+                var flag = new SecureRandom().nextBoolean();
                 var licencia = flag ? "Si" : "No";
 
                 System.out.println(licencia);
