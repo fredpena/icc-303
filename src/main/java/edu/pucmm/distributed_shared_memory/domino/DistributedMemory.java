@@ -1,5 +1,6 @@
 package edu.pucmm.distributed_shared_memory.domino;
 
+import java.security.SecureRandom;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Random;
@@ -30,7 +31,7 @@ public class DistributedMemory {
     static class Tablero {
 
         public void asignacion(Jugador player) {
-            player.add(new Random().nextInt(100));
+            player.add(new SecureRandom().nextInt(100));
             System.out.println("%s asignado al jugador %s".formatted(Thread.currentThread().getName(), player.nombre));
         }
     }

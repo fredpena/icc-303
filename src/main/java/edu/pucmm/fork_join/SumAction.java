@@ -1,5 +1,6 @@
 package edu.pucmm.fork_join;
 
+import java.security.SecureRandom;
 import java.util.List;
 import java.util.Random;
 import java.util.concurrent.ForkJoinPool;
@@ -59,7 +60,7 @@ public class SumAction extends RecursiveAction {
     }
 
     public static void main(String[] args) {
-        Random random = new Random();
+        Random random = new SecureRandom();
 
         List<Long> data = random
                 .longs(100, 1, 20)

@@ -1,5 +1,6 @@
 package edu.pucmm.parallel_algorithm;
 
+import java.security.SecureRandom;
 import java.util.Random;
 
 /**
@@ -37,7 +38,7 @@ public class MatrixMultiplication {
     }
 
     public static void main(String[] args) throws InterruptedException {
-        Random rand = new Random();
+        Random rand = new SecureRandom();
 
         // Llenar las matrices con números aleatorios
         for (int i = 0; i < SIZE; i++) {
