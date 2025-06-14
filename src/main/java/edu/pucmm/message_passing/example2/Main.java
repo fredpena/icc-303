@@ -1,5 +1,6 @@
 package edu.pucmm.message_passing.example2;
 
+import java.security.SecureRandom;
 import java.util.Random;
 
 /**
@@ -29,7 +30,7 @@ public class Main {
 
         canal.registrarConsumidor(new ConsumidorInfoGeneral());
         // canal.registrarConsumidor(new ConsumidorLicencia());
-        var edad = new Random().nextInt(30);
+        var edad = new SecureRandom().nextInt(30);
 
         Persona persona = new Persona("Fred", "Pena", edad);
 
